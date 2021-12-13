@@ -21,3 +21,5 @@
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/07da7852af3cb15a0a1c3ea89918f1f3d119528e/android-original.svg"/>]
 [<img align="left" alt="Gtk" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/2ebd174fc5451bca5973babfef7f55992d185602/svg/GTK.svg"/>]
 [<img align="left" alt="Yocto" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/master/svg/intely-tux.svg.png"/>]
+
+<br />
