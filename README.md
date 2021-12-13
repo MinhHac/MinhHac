@@ -22,7 +22,5 @@
 <img align="left" alt="Yocto" width="35px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/master/svg/yocto-project-whitebg_400x400.png"/>
 <img align="left" alt="BLE" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/2ebd174fc5451bca5973babfef7f55992d185602/svg/bluetooth-svgrepo-com.svg"/>
 <img align="left" alt="LoRa" width="35px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/master/svg/Lora.png"/>
-<--img align="left" alt="MQTT" width="30px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/b4f2094597ca46296b831f650fb0e3d5c2cac6d9/svg/mqtt-logo.svg"/-->
-
 
 <br />
