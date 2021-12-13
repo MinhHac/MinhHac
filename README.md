@@ -7,9 +7,14 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/4394e3a26c84a28ba11f6ee6ebfcd2e282603ae3/svg/c.svgg" />]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/07da7852af3cb15a0a1c3ea89918f1f3d119528e/svg/c.svg" />]
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/4394e3a26c84a28ba11f6ee6ebfcd2e282603ae3/svg/cpp.svg" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/07da7852af3cb15a0a1c3ea89918f1f3d119528e/python-original.svg"/>]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/07da7852af3cb15a0a1c3ea89918f1f3d119528e/python-original.svg"/>]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/07da7852af3cb15a0a1c3ea89918f1f3d119528e/linux-original.svg"/>]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/07da7852af3cb15a0a1c3ea89918f1f3d119528e/docker-original.svg"/>]
+
+
+
 
 <br />
 <br />
