@@ -13,7 +13,9 @@
 <img alt="Python" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/07da7852af3cb15a0a1c3ea89918f1f3d119528e/python-original.svg"/>
 
 <br />
+
 ### Tools:
+
 <img align="left" alt="Qt" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/07da7852af3cb15a0a1c3ea89918f1f3d119528e/qt-original.svg"/>
 <img align="left" alt="Gtk" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/2ebd174fc5451bca5973babfef7f55992d185602/svg/GTK.svg"/>
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/07da7852af3cb15a0a1c3ea89918f1f3d119528e/docker-original.svg"/>
@@ -21,7 +23,9 @@
 <img alt="Yocto" width="35px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/master/svg/yocto-project-whitebg_400x400.png"/>
 
 <br />
+
 ### Tools:
+
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/07da7852af3cb15a0a1c3ea89918f1f3d119528e/linux-original.svg"/>
 <img align="left" alt="Rasbery" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/07da7852af3cb15a0a1c3ea89918f1f3d119528e/raspberrypi-original.svg"/>
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/MinhHac/ToShareDocuments/07da7852af3cb15a0a1c3ea89918f1f3d119528e/android-original.svg"/>
