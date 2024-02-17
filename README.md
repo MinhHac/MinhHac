@@ -1,7 +1,7 @@
 ### Hi there, I'm MinhHac 👋
 
 - 🔭 I’m currently working on Embedded software development
-- 🌱 I’m currently learning everything
+- 🌱 I’m learning everything
 
 <br />
 
